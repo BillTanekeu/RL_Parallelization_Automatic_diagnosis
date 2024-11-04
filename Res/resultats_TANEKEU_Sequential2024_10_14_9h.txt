@@ -1,0 +1,24 @@
+Epoch 1/40: [=======================] 100% | Error 35.9122 | Acc: 0.298333 AT 17.2272 | val_Acc 0 | val_AT 19.9 | elaps: 23s
+Epoch 2/40: [=======================] 100% | Error 1.53489 | Acc: 0.16 AT 19.0189 | val_Acc 0 | val_AT 19.9 | elaps: 24s
+Epoch 3/40: [=======================] 100% | Error 0.361816 | Acc: 0.105 AT 19.4111 | val_Acc 0 | val_AT 19.9 | elaps: 25s
+Epoch 4/40: [=======================] 100% | Error 0.156566 | Acc: 0.188889 AT 18.475 | val_Acc 0.14 | val_AT 17.58 | elaps: 26s
+Epoch 5/40: [=======================] 100% | Error 0.163175 | Acc: 0.429444 AT 12.6789 | val_Acc 0.62 | val_AT 8.805 | elaps: 26s
+Epoch 6/40: [=======================] 100% | Error 0.213549 | Acc: 0.766667 AT 6.16722 | val_Acc 0.91 | val_AT 3.2 | elaps: 24s
+Epoch 7/40: [=======================] 100% | Error 0.257176 | Acc: 0.974444 AT 1.77222 | val_Acc 0.995 | val_AT 1.075 | elaps: 23s
+=== END TRAINNING << Time elapsed 175871s
+Epoch 1/40: [=======================] 100% | Error 35.9122 | Acc: 0.298333 AT 17.2272 | val_Acc 0 | val_AT 19.9 | elaps: 23s
+Epoch 2/40: [=======================] 100% | Error 1.53489 | Acc: 0.16 AT 19.0189 | val_Acc 0 | val_AT 19.9 | elaps: 24s
+Epoch 3/40: [=======================] 100% | Error 0.361816 | Acc: 0.105 AT 19.4111 | val_Acc 0 | val_AT 19.9 | elaps: 25s
+Epoch 4/40: [=======================] 100% | Error 0.156566 | Acc: 0.188889 AT 18.475 | val_Acc 0.14 | val_AT 17.58 | elaps: 26s
+Epoch 5/40: [=======================] 100% | Error 0.163175 | Acc: 0.429444 AT 12.6789 | val_Acc 0.62 | val_AT 8.805 | elaps: 25s
+Epoch 6/40: [=======================] 100% | Error 0.213549 | Acc: 0.766667 AT 6.16722 | val_Acc 0.91 | val_AT 3.2 | elaps: 24s
+Epoch 7/40: [=======================] 100% | Error 0.257176 | Acc: 0.974444 AT 1.77222 | val_Acc 0.995 | val_AT 1.075 | elaps: 23s
+=== END TRAINNING << Time elapsed 175540s
+Epoch 1/40: [=======================] 100% | Error 35.9122 | Acc: 0.298333 AT 17.2272 | val_Acc 0 | val_AT 19.9 | elaps: 23s
+Epoch 2/40: [=======================] 100% | Error 1.53489 | Acc: 0.16 AT 19.0189 | val_Acc 0 | val_AT 19.9 | elaps: 24s
+Epoch 3/40: [=======================] 100% | Error 0.361816 | Acc: 0.105 AT 19.4111 | val_Acc 0 | val_AT 19.9 | elaps: 25s
+Epoch 4/40: [=======================] 100% | Error 0.156566 | Acc: 0.188889 AT 18.475 | val_Acc 0.14 | val_AT 17.58 | elaps: 26s
+Epoch 5/40: [=======================] 100% | Error 0.163175 | Acc: 0.429444 AT 12.6789 | val_Acc 0.62 | val_AT 8.805 | elaps: 25s
+Epoch 6/40: [=======================] 100% | Error 0.213549 | Acc: 0.766667 AT 6.16722 | val_Acc 0.91 | val_AT 3.2 | elaps: 24s
+Epoch 7/40: [=======================] 100% | Error 0.257176 | Acc: 0.974444 AT 1.77222 | val_Acc 0.995 | val_AT 1.075 | elaps: 23s
+=== END TRAINNING << Time elapsed 175215s

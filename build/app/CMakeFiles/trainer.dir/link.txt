@@ -1,0 +1,1 @@
+/usr/bin/c++   -pedantic -O3 -fdiagnostics-color=auto -fmax-errors=5   -lm -rdynamic CMakeFiles/trainer.dir/src/trainer.cpp.o  -o trainer ../../lib/libFramework.a -ldl -lpthread 

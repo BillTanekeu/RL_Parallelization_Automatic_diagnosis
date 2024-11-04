@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libFramework.a  CMakeFiles/Framework.dir/src/ActivationFunctions.cpp.o CMakeFiles/Framework.dir/src/Dense.cpp.o CMakeFiles/Framework.dir/src/Layers.cpp.o CMakeFiles/Framework.dir/src/MLP.cpp.o CMakeFiles/Framework.dir/src/Preprocessor.cpp.o CMakeFiles/Framework.dir/src/Reader.cpp.o CMakeFiles/Framework.dir/src/agent.cpp.o CMakeFiles/Framework.dir/src/env.cpp.o CMakeFiles/Framework.dir/src/test.cpp.o
+/usr/bin/ranlib ../../lib/libFramework.a

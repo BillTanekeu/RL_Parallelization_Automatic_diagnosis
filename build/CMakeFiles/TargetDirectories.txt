@@ -1,0 +1,10 @@
+/home/bill/code/build/CMakeFiles/rebuild_cache.dir
+/home/bill/code/build/CMakeFiles/edit_cache.dir
+/home/bill/code/build/Framework/CMakeFiles/rebuild_cache.dir
+/home/bill/code/build/Framework/CMakeFiles/Framework.dir
+/home/bill/code/build/Framework/CMakeFiles/edit_cache.dir
+/home/bill/code/build/app/CMakeFiles/rebuild_cache.dir
+/home/bill/code/build/app/CMakeFiles/edit_cache.dir
+/home/bill/code/build/app/CMakeFiles/trainer.dir
+/home/bill/code/build/app/CMakeFiles/load.dir
+/home/bill/code/build/app/CMakeFiles/main1.dir

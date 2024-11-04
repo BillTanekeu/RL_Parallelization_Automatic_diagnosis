@@ -1,0 +1,1 @@
+/usr/bin/c++   -pedantic -O3 -fdiagnostics-color=auto -fmax-errors=5   -lm -rdynamic CMakeFiles/load.dir/src/load.cpp.o  -o load ../../lib/libFramework.a -ldl -lpthread 
